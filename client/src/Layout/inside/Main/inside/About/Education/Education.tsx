@@ -43,7 +43,7 @@ export const Education: FC = () => (
             </span>
           </div>
           <div className={s.desc}>
-            SSC (10th) from J.L. High School, Ahmedabad <br />
+            SSC (10th) from Little Flower School, Ahmedabad <br />
             61% in Board
           </div>
         </div>
