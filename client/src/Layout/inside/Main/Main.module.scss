@@ -1,0 +1,13 @@
+.wrap {
+  flex: 1;
+  background: var(--background);
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
+
+.body {
+  display: flex;
+  flex: 1;
+  padding: 2.4rem;
+}
